@@ -26,7 +26,7 @@ const Header = () => {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h5" component="div" sx={{ flexGrow: 1 }} style={{ fontFamily: 'Trade Winds' }}>
-                        Taarzan
+                        Car Shop
                     </Typography>
                     <NavLink style={{ textDecoration: 'none', color: 'white' }} to="/home">
                         <Button color="inherit" sx={{ fontWeight: 'bold' }}>Home</Button>

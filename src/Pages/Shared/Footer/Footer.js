@@ -8,7 +8,7 @@ const Footer = () => {
             <Container sx={{ mt: 5, py: 5, color: 'white' }}>
                 <Grid container spacing={2} sx={{ mb: 3 }}>
                     <Grid item xs={12} md={3} sx={{ textAlign: 'start' }}>
-                        <Typography variant="h3" sx={{ fontFamily: 'Trade Winds', color: 'white' }}>Taarzan</Typography>
+                        <Typography variant="h3" sx={{ fontFamily: 'Trade Winds', color: 'white' }}>Car Shop</Typography>
                     </Grid>
                     <Grid item xs={12} md={3} sx={{ textAlign: 'start' }}>
                         <Typography variant="h5" sx={{ fontWeight: 'bold', mb: 2 }}>Quick Links</Typography>
@@ -29,10 +29,10 @@ const Footer = () => {
                         <Typography variant="subtitle1">Gopalganj, Dhaka,</Typography>
                         <Typography variant="subtitle1">Bangladesh</Typography>
                         <Typography variant="subtitle1">+11 532 766 4545</Typography>
-                        <Typography variant="subtitle1">info@taarzan.com</Typography>
+                        <Typography variant="subtitle1">info@carshop.com</Typography>
                     </Grid>
                 </Grid>
-                <Typography variant="subtitle1" sx={{ mt: 3, pt: 3 }}>Copyright &copy; 2021 Taarzan</Typography>
+                <Typography variant="subtitle1" sx={{ mt: 3, pt: 3 }}>Copyright &copy; 2022 Car Shop</Typography>
             </Container>
         </Box>
     );
